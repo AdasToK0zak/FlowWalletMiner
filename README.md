@@ -1,0 +1,2 @@
+# FlowWalletMiner
+Visual Wallet Miner
