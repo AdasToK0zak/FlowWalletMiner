@@ -1,0 +1,8 @@
+C:\Users\lione\source\repos\FlowWalletMiner\FlowWalletMiner\bin\Release\FlowWalletMiner.exe.config
+C:\Users\lione\source\repos\FlowWalletMiner\FlowWalletMiner\bin\Release\FlowWalletMiner.exe
+C:\Users\lione\source\repos\FlowWalletMiner\FlowWalletMiner\bin\Release\FlowWalletMiner.pdb
+C:\Users\lione\source\repos\FlowWalletMiner\FlowWalletMiner\obj\Release\FlowWalletMiner.csproj.AssemblyReference.cache
+C:\Users\lione\source\repos\FlowWalletMiner\FlowWalletMiner\obj\Release\FlowWalletMiner.csproj.SuggestedBindingRedirects.cache
+C:\Users\lione\source\repos\FlowWalletMiner\FlowWalletMiner\obj\Release\FlowWalletMiner.csproj.CoreCompileInputs.cache
+C:\Users\lione\source\repos\FlowWalletMiner\FlowWalletMiner\obj\Release\FlowWalletMiner.exe
+C:\Users\lione\source\repos\FlowWalletMiner\FlowWalletMiner\obj\Release\FlowWalletMiner.pdb
